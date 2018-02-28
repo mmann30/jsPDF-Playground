@@ -1,0 +1,1 @@
+Basic playground to become familiar with jsPDF features and functionality. 
